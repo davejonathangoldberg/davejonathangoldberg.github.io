@@ -7,12 +7,90 @@
     <atom:link href="http://davejonathangoldberg.github.iohttp://davejonathangoldberg.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>A blog about my thoughts on APIs.</title>
-        <description>&lt;p&gt;This is the first post in my new blog. I’ll be mostly talking about APIs, distributed data, the future of applications, and related topics. I might stray into other areas from time to time. &lt;/p&gt;
+        <title>A blog about APIs.</title>
+        <description>&lt;p&gt;This is the first post in my new blog. I’ll be mostly talking about APIs, REST, hypermedia, distributed data, the future of applications, and related topics. I might stray into other areas from time to time. &lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Aug 2014 13:20:48 -0400</pubDate>
         <link>http://davejonathangoldberg.github.iohttp://davejonathangoldberg.github.io/apis/2014/08/06/api-blog-introduction/</link>
         <guid isPermaLink="true">http://davejonathangoldberg.github.iohttp://davejonathangoldberg.github.io/apis/2014/08/06/api-blog-introduction/</guid>
+      </item>
+    
+      <item>
+        <title>Hypermedia Resources</title>
+        <description>&lt;p&gt;Over the past few months, there has been a noticeable increase in interest in hypermedia APIs. To date, the discussion reached peak intensity during &lt;a href=&quot;http://api-craft.org/&quot;&gt;API Craft 2014&lt;/a&gt; in Detroit a couple of weeks ago. Since then, the conversation has kept going on Twitter and on blogs and you know, wherever API folk gather.&lt;/p&gt;
+
+&lt;p&gt;I thought it might be useful to put together a list of hypermedia resources that people can use to familiarize themselves with the topic. Please &lt;a href=&quot;https://twitter.com/davidgoldberg&quot;&gt;let me know&lt;/a&gt; if you think anything should be added.&lt;/p&gt;
+
+&lt;h3 id=&quot;blog-posts&quot;&gt;Blog Posts&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;(http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)&lt;/li&gt;
+  &lt;li&gt;(http://www.bizcoder.com/hypermedia-as-the-engine-of-application-state-the-client-server-dance)&lt;/li&gt;
+  &lt;li&gt;(http://blog.steveklabnik.com/posts/2012-02-23-rest-is-over)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;headings&quot;&gt;Headings!&lt;/h1&gt;
+
+&lt;p&gt;They’re responsive, and well-proportioned (in &lt;code&gt;padding&lt;/code&gt;, &lt;code&gt;line-height&lt;/code&gt;, &lt;code&gt;margin&lt;/code&gt;, and &lt;code&gt;font-size&lt;/code&gt;).
+They also heavily rely on the awesome utility, &lt;a href=&quot;http://www.basscss.com/&quot;&gt;BASSCSS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h5 id=&quot;they-draw-the-perfect-amount-of-attention&quot;&gt;They draw the perfect amount of attention&lt;/h5&gt;
+
+&lt;p&gt;This allows your content to have the proper informational and contextual hierarchy. Yay.&lt;/p&gt;
+
+&lt;h3 id=&quot;there-are-lists-too&quot;&gt;There are lists, too&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Apples&lt;/li&gt;
+  &lt;li&gt;Oranges&lt;/li&gt;
+  &lt;li&gt;Potatoes&lt;/li&gt;
+  &lt;li&gt;Milk&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Mow the lawn&lt;/li&gt;
+  &lt;li&gt;Feed the dog&lt;/li&gt;
+  &lt;li&gt;Dance&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;images-look-great-too&quot;&gt;Images look great, too&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png&quot; alt=&quot;desk&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;there-are-also-pretty-colors&quot;&gt;There are also pretty colors&lt;/h3&gt;
+
+&lt;p&gt;Also the result of &lt;a href=&quot;http://www.basscss.com/&quot;&gt;BASSCSS&lt;/a&gt;, you can &lt;span class=&quot;bg-dark-gray white&quot;&gt;highlight&lt;/span&gt; certain components
+of a &lt;span class=&quot;red&quot;&gt;post&lt;/span&gt; &lt;span class=&quot;mid-gray&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;green&quot;&gt;CSS&lt;/span&gt; &lt;span class=&quot;orange&quot;&gt;classes&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;I don’t recommend using blue, though. It looks like a &lt;span class=&quot;blue&quot;&gt;link&lt;/span&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;stylish-blockquotes-included&quot;&gt;Stylish blockquotes included&lt;/h3&gt;
+
+&lt;p&gt;You can use the markdown quote syntax, &lt;code&gt;&amp;gt;&lt;/code&gt; for simple quotes.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis porta mauris.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;However, you need to inject html if you’d like a citation footer. I will be working on a way to
+hopefully sidestep this inconvenience.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;
+    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+  &lt;/p&gt;
+  &lt;footer&gt;&lt;cite title=&quot;Antoine de Saint-Exupe&quot;&gt;Antoine de Saint-Exupe&lt;/cite&gt;&lt;/footer&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;theres-more-being-added-all-the-time&quot;&gt;There’s more being added all the time&lt;/h3&gt;
+
+&lt;p&gt;Checkout the &lt;a href=&quot;https://github.com/johnotander/pixyll&quot;&gt;Github repository&lt;/a&gt; to request,
+or add, features.&lt;/p&gt;
+
+&lt;p&gt;Happy writing.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Aug 2014 08:31:19 -0400</pubDate>
+        <link>http://davejonathangoldberg.github.iohttp://davejonathangoldberg.github.io/jekyll/pixyll/2014/08/06/hypermedia-resources/</link>
+        <guid isPermaLink="true">http://davejonathangoldberg.github.iohttp://davejonathangoldberg.github.io/jekyll/pixyll/2014/08/06/hypermedia-resources/</guid>
       </item>
     
       <item>
