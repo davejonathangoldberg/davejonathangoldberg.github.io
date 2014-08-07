@@ -23,9 +23,21 @@
 
 &lt;h3 id=&quot;blog-posts&quot;&gt;Blog Posts&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;(http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)&lt;/li&gt;
-  &lt;li&gt;(http://www.bizcoder.com/hypermedia-as-the-engine-of-application-state-the-client-server-dance)&lt;/li&gt;
-  &lt;li&gt;(http://blog.steveklabnik.com/posts/2012-02-23-rest-is-over)&lt;/li&gt;
+  &lt;li&gt;[http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven]&lt;/li&gt;
+  &lt;li&gt;[http://www.bizcoder.com/hypermedia-as-the-engine-of-application-state-the-client-server-dance]&lt;/li&gt;
+  &lt;li&gt;[http://blog.steveklabnik.com/posts/2012-02-23-rest-is-over]&lt;/li&gt;
+  &lt;li&gt;[http://apievangelist.com/2014/08/05/the-hypermedia-api-debate-sorry-reasonable-just-does-not-sell/]&lt;/li&gt;
+  &lt;li&gt;[http://apistrategy.tumblr.com/post/93811412588/stop-talking-about-hypermedia-and-rest-start-building]&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amundsen.com/blog/archives/1152&quot;&gt;The Next Big Thing is Small&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;projects&quot;&gt;Projects&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zettajs/zetta&quot;&gt;ZettaJS&lt;/a&gt; - An Open Source platform for the Internet of Things&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/smizell/verbose&quot;&gt;Verbose&lt;/a&gt; - Verbose is a general-purpose, multi-use hypermedia format that can be used to build robust and highly-descriptive hypermedia APIs.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/smizell/halpert&quot;&gt;Halpert&lt;/a&gt; - Halpert is a library for representing and interfacing with hypermedia formats.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/davejonathangoldberg/hypermedia-api-generator&quot;&gt;Hypermedia-API-Generator&lt;/a&gt; - Hypermedia API Generator (yes - this is a plug for my own project)&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;headings&quot;&gt;Headings!&lt;/h1&gt;
