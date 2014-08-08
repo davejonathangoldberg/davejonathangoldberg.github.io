@@ -74,70 +74,12 @@
       </item>
     
       <item>
-        <title>Hypermedia Resources</title>
-        <description>&lt;p&gt;Over the past few months, there has been a noticeable increase in interest in hypermedia APIs. To date, the discussion reached peak intensity during &lt;a href=&quot;http://api-craft.org/&quot;&gt;API Craft 2014&lt;/a&gt; in Detroit a couple of weeks ago. Since then, the conversation has kept going on Twitter and on blogs and you know, wherever API folk gather.&lt;/p&gt;
-
-&lt;p&gt;I thought it might be useful to put together a list of hypermedia resources that people can use to familiarize themselves with the topic. This list will get much longer as I will continue to add to it as I remember good resources and more appear. Please &lt;a href=&quot;https://twitter.com/davidgoldberg&quot;&gt;let me know&lt;/a&gt; if you think anything should be added.&lt;/p&gt;
-
-&lt;h3 id=&quot;media-types&quot;&gt;Media-Types&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://stateless.co/hal_specification.html&quot;&gt;HAL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://rawgit.com/mamund/media-types/master/uber-hypermedia.html&quot;&gt;Uber&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://amundsen.com/media-types/collection/&quot;&gt;Collection+JSON&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/JornWildt/Mason&quot;&gt;Mason&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kevinswiber/siren&quot;&gt;Siren&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://jsonapi.org/&quot;&gt;JSON API&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://json-ld.org/&quot;&gt;JSON-LD&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://cdoc.io/&quot;&gt;Collection.Document+JSON&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;projects&quot;&gt;Projects&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://haltalk.herokuapp.com/explorer/browser.html#/&quot;&gt;HAL Browser&lt;/a&gt; - A browser based sample HAL client. Try it out and you’ll get a feel for why affordances via links have such a strong appeal!&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://apisjson.org/&quot;&gt;APIs.json&lt;/a&gt; - Distributed API discovery format.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://apis.io/&quot;&gt;APIs.io&lt;/a&gt; - A searchable API directory that also leverages APIs.json.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zettajs/zetta&quot;&gt;ZettaJS&lt;/a&gt; - An Open Source platform for the Internet of Things&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/smizell/verbose&quot;&gt;Verbose&lt;/a&gt; - Verbose is a general-purpose, multi-use hypermedia format that can be used to build robust and highly-descriptive hypermedia APIs.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/smizell/halpert&quot;&gt;Halpert&lt;/a&gt; - Halpert is a library for representing and interfacing with hypermedia formats.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://amundsen.com/hypermedia/profiles/&quot;&gt;ALPS&lt;/a&gt; - “Application-Level Profile Semantics”&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/davejonathangoldberg/hypermedia-api-generator&quot;&gt;Hypermedia-API-Generator&lt;/a&gt; - Hypermedia API Generator &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;blog-posts-that-explain-hypermedia-apis&quot;&gt;Blog Posts that explain hypermedia APIs&lt;/h3&gt;
-&lt;p&gt;1 &lt;a href=&quot;http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven&quot;&gt;REST APIs must be hypertext-driven&lt;/a&gt;
-2 &lt;a href=&quot;http://amundsen.com/blog/archives/1152&quot;&gt;The Next Big Thing is Small&lt;/a&gt;
-3 &lt;a href=&quot;http://www.bizcoder.com/hypermedia-as-the-engine-of-application-state-the-client-server-dance&quot;&gt;Hypermedia as the engine of application state, the client-server dance&lt;/a&gt;
-4 &lt;a href=&quot;http://blog.steveklabnik.com/posts/2012-02-23-rest-is-over&quot;&gt;REST is Over&lt;/a&gt;
-5 &lt;a href=&quot;http://apievangelist.com/2014/08/05/the-hypermedia-api-debate-sorry-reasonable-just-does-not-sell/&quot;&gt;The Hypermedia API Debate: Sorry Reasonable Just Does Not Sell&lt;/a&gt;
-6 &lt;a href=&quot;http://apistrategy.tumblr.com/post/93811412588/stop-talking-about-hypermedia-and-rest-start-building&quot;&gt;Stop Talking About Hypermedia and REST - Start Building Adaptable APIs&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;hypermedia-people-i-follow-on-twitter&quot;&gt;Hypermedia People I follow on Twitter&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/mamund&quot;&gt;Mike Amundsen (@mamund)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/gblock&quot;&gt;Glen Block (@GBlock)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/gamache&quot;&gt;Pete Gamache (@gamache)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/steveklabnik&quot;&gt;Steve Klabnik (@steveklabnik)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/kinlane&quot;&gt;Kin Lane (@kinlane)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/markuslanthaler&quot;&gt;Markus Lanthaler (@MarkusLanthaler)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/cometaj2&quot;&gt;Jeff Michaud (@cometaj2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/darrel_miller&quot;&gt;Darrel Miller (@Darrel_Miller)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/stephen_mizell&quot;&gt;Stephen Mizell (@Stephen_Mizell)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/mogsie&quot;&gt;Erik Mogensen (@mogsie)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/jon_moore&quot;&gt;Jon Moore (@Jon_Moore)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/inadarei&quot;&gt;Irakli Nadareishvilli (@Inadarei)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/@zdne&quot;&gt;Zdenek Nemec (@zdne)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/kevinswiber&quot;&gt;Kevin Swiber (@kevinswiber)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/ttahmouch&quot;&gt;Tony Tahmouch (@ttahmouch)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/rubenverborgh&quot;&gt;Ruben Verborgh (@RubenVerborgh)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/jornwildt&quot;&gt;Jorn Wildt (@jornwildt)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/njyx&quot;&gt;Steven Willmott (@njyx)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/jitterted&quot;&gt;Ted Young (@jitterted)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
+        <title>A blog about APIs.</title>
+        <description>&lt;p&gt;This is the first post in my new blog. I’ll be mostly talking about APIs, REST, hypermedia, distributed data, the future of applications, and related topics. I might stray into other areas from time to time. &lt;/p&gt;
 </description>
-        <pubDate>Wed, 06 Aug 2014 08:31:19 -0400</pubDate>
-        <link>http://davejonathangoldberg.github.iohttp://davejonathangoldberg.github.io/apis/hypermedia/2014/08/06/hypermedia-resources/</link>
-        <guid isPermaLink="true">http://davejonathangoldberg.github.iohttp://davejonathangoldberg.github.io/apis/hypermedia/2014/08/06/hypermedia-resources/</guid>
+        <pubDate>Wed, 06 Aug 2014 13:20:48 -0400</pubDate>
+        <link>http://davejonathangoldberg.github.iohttp://davejonathangoldberg.github.io/apis/2014/08/06/api-blog-introduction/</link>
+        <guid isPermaLink="true">http://davejonathangoldberg.github.iohttp://davejonathangoldberg.github.io/apis/2014/08/06/api-blog-introduction/</guid>
       </item>
     
   </channel>
