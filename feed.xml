@@ -37,12 +37,14 @@
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;blog-posts-that-explain-hypermedia-apis&quot;&gt;Blog Posts that explain hypermedia APIs&lt;/h3&gt;
-&lt;p&gt;1 &lt;a href=&quot;http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven&quot;&gt;REST APIs must be hypertext-driven&lt;/a&gt;
-2 &lt;a href=&quot;http://amundsen.com/blog/archives/1152&quot;&gt;The Next Big Thing is Small&lt;/a&gt;
-3 &lt;a href=&quot;http://www.bizcoder.com/hypermedia-as-the-engine-of-application-state-the-client-server-dance&quot;&gt;Hypermedia as the engine of application state, the client-server dance&lt;/a&gt;
-4 &lt;a href=&quot;http://blog.steveklabnik.com/posts/2012-02-23-rest-is-over&quot;&gt;REST is Over&lt;/a&gt;
-5 &lt;a href=&quot;http://apievangelist.com/2014/08/05/the-hypermedia-api-debate-sorry-reasonable-just-does-not-sell/&quot;&gt;The Hypermedia API Debate: Sorry Reasonable Just Does Not Sell&lt;/a&gt;
-6 &lt;a href=&quot;http://apistrategy.tumblr.com/post/93811412588/stop-talking-about-hypermedia-and-rest-start-building&quot;&gt;Stop Talking About Hypermedia and REST - Start Building Adaptable APIs&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven&quot;&gt;REST APIs must be hypertext-driven&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amundsen.com/blog/archives/1152&quot;&gt;The Next Big Thing is Small&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bizcoder.com/hypermedia-as-the-engine-of-application-state-the-client-server-dance&quot;&gt;Hypermedia as the engine of application state, the client-server dance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.steveklabnik.com/posts/2012-02-23-rest-is-over&quot;&gt;REST is Over&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://apievangelist.com/2014/08/05/the-hypermedia-api-debate-sorry-reasonable-just-does-not-sell/&quot;&gt;The Hypermedia API Debate: Sorry Reasonable Just Does Not Sell&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://apistrategy.tumblr.com/post/93811412588/stop-talking-about-hypermedia-and-rest-start-building&quot;&gt;Stop Talking About Hypermedia and REST - Start Building Adaptable APIs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;hypermedia-people-i-follow-on-twitter&quot;&gt;Hypermedia People I follow on Twitter&lt;/h3&gt;
 &lt;ul&gt;
