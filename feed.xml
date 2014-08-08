@@ -24,7 +24,12 @@
   &lt;li&gt;&lt;a href=&quot;http://cdoc.io/&quot;&gt;Collection.Document+JSON&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;projects&quot;&gt;Projects&lt;/h3&gt;
+&lt;h3 id=&quot;papers&quot;&gt;Papers&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm&quot;&gt;Chapter 5 of Roy Fieldings dissertation (REST)&lt;/a&gt; - It all starts with Roy Fieldings dissertation where he defines REST. A must read.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;projects--papers&quot;&gt;Projects &amp;amp; Papers&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://haltalk.herokuapp.com/explorer/browser.html#/&quot;&gt;HAL Browser&lt;/a&gt; - A browser based sample HAL client. Try it out and you’ll get a feel for why affordances via links have such a strong appeal!&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://apisjson.org/&quot;&gt;APIs.json&lt;/a&gt; - Distributed API discovery format.&lt;/li&gt;
