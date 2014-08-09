@@ -22,7 +22,6 @@
   &lt;li&gt;&lt;a href=&quot;http://jsonapi.org/&quot;&gt;JSON API&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://json-ld.org/&quot;&gt;JSON-LD&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://cdoc.io/&quot;&gt;Collection.Document+JSON&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://json-schema.org/&quot;&gt;JSON Schema&lt;/a&gt; - Not sure this qualifies as a media-type, but is gaining usage in key hypermedia components and within media-types. &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;papers&quot;&gt;Papers&lt;/h3&gt;
@@ -35,6 +34,7 @@
   &lt;li&gt;&lt;a href=&quot;http://haltalk.herokuapp.com/explorer/browser.html#/&quot;&gt;HAL Browser&lt;/a&gt; - A browser based sample HAL client. Try it out and you’ll get a feel for why affordances via links have such a strong appeal!&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://apisjson.org/&quot;&gt;APIs.json&lt;/a&gt; - Distributed API discovery format.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://apis.io/&quot;&gt;APIs.io&lt;/a&gt; - A searchable API directory that also leverages APIs.json.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://json-schema.org/&quot;&gt;JSON Schema&lt;/a&gt; - JSON data format description and validation language. Gaining usage in key hypermedia components and within media-types. &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/zettajs/zetta&quot;&gt;ZettaJS&lt;/a&gt; - An Open Source platform for the Internet of Things&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/smizell/verbose&quot;&gt;Verbose&lt;/a&gt; - Verbose is a general-purpose, multi-use hypermedia format that can be used to build robust and highly-descriptive hypermedia APIs.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/smizell/halpert&quot;&gt;Halpert&lt;/a&gt; - Halpert is a library for representing and interfacing with hypermedia formats.&lt;/li&gt;
