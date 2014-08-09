@@ -22,6 +22,7 @@
   &lt;li&gt;&lt;a href=&quot;http://jsonapi.org/&quot;&gt;JSON API&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://json-ld.org/&quot;&gt;JSON-LD&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://cdoc.io/&quot;&gt;Collection.Document+JSON&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://json-schema.org/&quot;&gt;JSON Schema&lt;/a&gt; - Not sure this qualifies as a media-type, but is gaining usage in key hypermedia components and within media-types. &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;papers&quot;&gt;Papers&lt;/h3&gt;
